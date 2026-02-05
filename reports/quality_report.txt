@@ -1,0 +1,12 @@
+AI Data Quality Report
+======================
+
+Total Records: 5
+
+Label Distribution:
+label
+Positive    2
+Negative    2
+Neutral     1
+
+Data validation completed successfully.
